@@ -3,6 +3,7 @@
 
 ## About Dataset
  Lending Loan Club Dataset contains 74 columns and 887379 rows.
+ The dataset has the information of the loan borrowers such as the loan amount,interest rate, purpose, term and the status of the loan taken. 
  
 
  
