@@ -3,7 +3,11 @@
 
 ## About Dataset
  Dataset is available at https://www.kaggle.com/wendykan/lending-club-loan-data/data for download.\
- It contains **74** columns and **887379** rows.
+ It contains **74** columns and **887379** rows.\
+ The dataset contains information of the loan borrowers such as unique LC assigned Id for the borrower member,listed amount of the loan   applied for by the borrower, Interest Rate on the loan, category provided by the borrower for the loan request and current status of the loan.
+  
+ 
+ 
 
   
  
