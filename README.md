@@ -38,13 +38,13 @@ Analyzed the data to identify and interpret factors contributing to loan amount,
         "Does not meet the credit policy. Status:Charged Off" , 
    is predicted based on the loan amount, the purpose of loan, employment tenure of the loan borrower, their annual income, etc.
   
-   1. Decision Tree Algorithm
-      Decision tree - Normal data set
+   1. Decision Tree Algorithm\
+     
       Accuracy : 0.931943196387549
     
  
-   2. Random Forest Algorithm
-      Random Forest - Normal data set
+   2. Random Forest Algorithm\
+  
       Accuracy : 0.9594426418116397
  
 
