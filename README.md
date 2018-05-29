@@ -8,7 +8,12 @@
  
 ## Data Preprocessing
  
-  
+ 1. Columns with 70 % missing values and those with descriptive information like 'url' and 'desc' are deleted which reduces the number of columns to 52.
+ 2. Data Dictionary gives the column description which helps in further data pre processing.
+ 3. Columns with randomly generated field, redundant information and leaking information from the future are dropped with 36 columns in the dataframe.
+
+## Exploratory Data Analysis
+ 
  
  
 
