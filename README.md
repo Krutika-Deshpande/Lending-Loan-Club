@@ -1,6 +1,8 @@
 # Lending Loan Club - Dataset from Kaggle Competition
 
 Analyzed the data to identify and interpret factors contributing to loan amount, status, purpose of the loan and performed classification using Decision Tree and Random Forest classification
+
+
 <img width="1000" height="300" src = "https://blog.lendingclub.com/wp-content/uploads/2017/05/LC-Logo-Official-min.png">
 
 ## About Dataset
