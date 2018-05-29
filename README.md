@@ -41,36 +41,17 @@ Analyzed the data to identify and interpret factors contributing to loan amount,
   1. Decision Tree Algorithm
      Decision tree - Normal data set
      Accuracy : 0.931943196387549
-     Confusion Matrix
- [[172012     19      0   4031    939   2349    916      0    409      0]
- [    21  60875    876      0      0      5      0    193      0     13]
- [     0    807  12636      0      0      0      0     11      0     69]
- [  3136      2      0    219      9     57     38      0     21      0]
- [   825      1      0     15   1624     20      5      0      1      0]
- [  1741      5      0     88     18     38     14      0      8      0]
- [   646      0      0     27      2     15      3      0      2      0]
- [     0    214     14      0      0      0      0    335      0     29]
- [   337      0      0     29      0      8      2      0      9      0]
- [     0     22     66      0      0      0      0     26      0    117]]
+    
  
- 2. Random Forest Algorithm
-   Random Forest - Normal data set
-  Accuracy : 0.9594426418116397
-  Confusion Matrix
-[[179778     20      0      3    873      1      0      0      0      0]
- [     0  61792    158      0      0      0      0     33      0      0]
- [     0   1201  12315      0      0      0      0      1      0      6]
- [  3465      2      0      0     15      0      0      0      0      0]
- [  1465      1      0      1   1023      1      0      0      0      0]
- [  1879      5      0      0     28      0      0      0      0      0]
- [   692      0      0      0      3      0      0      0      0      0]
- [     0    363      8      0      0      0      0    219      0      2]
- [   383      0      0      0      2      0      0      0      0      0]
- [     0     33    122      0      0      0      0     21      0     55]]
-
-  
+  2. Random Forest Algorithm
+     Random Forest - Normal data set
+     Accuracy : 0.9594426418116397
  
 
+
+## Conclusion
+ With the implementation of decision tree and random forest model, we can predict the loan status for borrowers and the likelihood of loan approval considering the factors like annual income, employment status, years of experiennce, purpose of the loan. 
+   
  
   
  
