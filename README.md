@@ -26,7 +26,7 @@ Analyzed the data to identify and interpret factors contributing to loan amount,
   
  ## Machine Learning
  
- Loan status "Current",                                           
+  Loan status "Current",                                           
         "Fully Paid" ,                                            
         "Charged Off",                                             
         "Late (31-120 days)",                                    
@@ -36,21 +36,21 @@ Analyzed the data to identify and interpret factors contributing to loan amount,
         "Does not meet the credit policy. Status:Fully Paid",       
         "Default",                                                  
         "Does not meet the credit policy. Status:Charged Off" , 
-  is predicted based on the loan amount, the purpose of loan, employment tenure of the loan borrower, their annual income, etc.
+   is predicted based on the loan amount, the purpose of loan, employment tenure of the loan borrower, their annual income, etc.
   
-  1. Decision Tree Algorithm
-     Decision tree - Normal data set
-     Accuracy : 0.931943196387549
+   1. Decision Tree Algorithm
+      Decision tree - Normal data set
+      Accuracy : 0.931943196387549
     
  
-  2. Random Forest Algorithm
-     Random Forest - Normal data set
-     Accuracy : 0.9594426418116397
+   2. Random Forest Algorithm
+      Random Forest - Normal data set
+      Accuracy : 0.9594426418116397
  
 
 
 ## Conclusion
- With the implementation of decision tree and random forest model, we can predict the loan status for borrowers and the likelihood of loan approval considering the factors like annual income, employment status, years of experiennce, purpose of the loan. 
+ With the implementation of decision tree and random forest model, we can predict the loan status for borrowers and the likelihood of  loan approval considering the factors like annual income, employment status, years of experiennce, purpose of the loan. 
    
  
   
